@@ -1,6 +1,5 @@
 name: Update GitAscii
 
-
 on:
   workflow_dispatch:
 
